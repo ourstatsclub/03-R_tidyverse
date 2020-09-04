@@ -1,2 +1,10 @@
-# 03-R_tidyverse
+# R_tidyverse
 Introduction to tidyverse
+
+# Chapters
+
+* Introduction
+
+* Advanced
+
+* Case studies
